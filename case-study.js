@@ -171,11 +171,5 @@ main ();
 
 
 
-// if (matched){
-//   await page.goto(genreLinks[bookIndex])
-// }else{
-//   console.log(`The genre you chose is not available, please choose an available genre : ${genreTags.join(", ")}`);
-//   main();
-// }
-   
+
   
